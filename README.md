@@ -68,7 +68,6 @@
 ## Структура практики
 
 - Описание
-- Важность/значимость
 - Какую проблему решает практика?
 - Риски - что будет если не применять практику?
 - Как реализовать(какие технологии могут быть применены)
@@ -137,4 +136,3 @@
 - [Devops Areas - Codifying devops practices](https://www.jedi.be/blog/2012/05/12/codifying-devops-area-practices/)
 - [Building process or practice capabilities in your organization](https://www.linkedin.com/pulse/building-information-governance-capabilities-your-achraf-elgh%C3%A9riany/)
 - [Practices and capabilities in ITIL®4 - a critical view](https://www.linkedin.com/pulse/practices-capabilities-itil4-critical-view-ben-kalland)
-- 
