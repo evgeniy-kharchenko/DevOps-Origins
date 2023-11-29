@@ -1,4 +1,4 @@
-# No blame culture
+# No blame culture - IN PROGRESS
 
 ## Статус практики
 
