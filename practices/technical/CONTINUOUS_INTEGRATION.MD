@@ -11,12 +11,12 @@
 ## Какую проблему решает практика?
 
 - Ускорение командной разработки
-- Сокращение времени вывода на рынок
+- Сокращение времени вывода продукта на рынок
 - Обеспечивает качество продукта
 
 ## Риски - что будет если не применять практику?
 
-- Снижением ТТМ
+- Увеличение Time to Market
 - Снижение устойчивости продукта
 - Выгорание команды
 
@@ -33,11 +33,11 @@
 
 Ниже преведен перечень навык, который можно приобрести по мере развития и реализации практики.
 
-Ссылка на навык в SFIA: [SINT](https://www.sfia-online.org/en/sfia-7/skills/development-and-implementation/systems-development/systems-integration-and-build)
+Ссылка на навык в SFIA: [SINT](https://sfia-online.org/en/sfia-8/skills/systems-integration-and-build)
 
 - Категория: Development and Implementation
 - Сабкатегория: Systems development
-- Навыки: Systems integration and build
+- Навык: Systems integration and build
 - Код: SINT
 - Уровни: 2, 3, 4, 5, 6
 
@@ -46,7 +46,7 @@
 | Уровни зрелости | Действия               | Навыки | Измерение                                                                                                              |
 |-----------------|------------------------|--------|------------------------------------------------------------------------------------------------------------------------|
 | 1               | Сборка по комиту       | SINT-2 | % коммитов, которые приводят к сборке, возможно ручное вмешательство                                                   |
-| 1               | Авто-тесты по комиту   | SINT-2 | % коммитов, которые приводят к сборке, возможно ручное вмешательство                                                   |
+| 1               | Авто-тесты по комиту   | SINT-2 | % коммитов, которые приводят к тестам, возможно ручное вмешательство                                                   |
 | 1               | Запрет на push в main  | SINT-3 | Проверка флага, о запрете  на push в main в проекте                                                                    |
 | 2               | Сборка по комиту       | SINT-3 | % коммитов, которые приводят к успешно выполненным  сборкам без ручного вмешательства                                  |
 | 2               | Авто-тесты по комиту   | SINT-3 | % коммитов, которые приводят к успешно выполненным  авто-тестам без ручного вмешательства                              |
@@ -56,3 +56,11 @@
 | 3               | Стабильность сборки    | SINT-4 | Время, которое проходит между выявлением сломанной сборки и ее исправлением, путем устранения проблемы либо откатом    |
 | 3               | Скорость сборки        | SINT-5 | Время от коммита, до готовой сборки                                                                                    |
 | 4               | Обучение/Внедрение     | SINT-6 | % покрытия команд в зоне ответственности практикой, масштабирование и переиспользование, расширяй зону ответственности |
+
+## Полезные ссылки
+
+- [Continuous Integration by Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html)
+- [Continuous Integration by GitLab](https://about.gitlab.com/topics/ci-cd/#What%20is%20continuous%20integration%20(CI))
+- [Continuous Integration by Atlassian](https://www.atlassian.com/continuous-delivery/continuous-integration)
+- [Continuous Integration by DORA](https://dora.dev/devops-capabilities/technical/continuous-integration/)
+- [Continuous Integration by Trunk Based Development](https://trunkbaseddevelopment.com/continuous-integration/)
